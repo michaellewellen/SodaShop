@@ -11,10 +11,10 @@ th, td {
 	padding: 15px;
 }
 </style>
-	<h1>Search Results<\h1>
+	<h1>Search Results</h1>
 	<table>
 		<tr>
-			<th> Soda Company/SodaBrand </th>
+			<th> Soda Brand/Soda Company </th>
 		</tr>
 	<%
 	

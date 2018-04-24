@@ -36,9 +36,10 @@ public class searchServlet extends HttpServlet {
 		if(cur.getCompany().contains(searchString) || cur.getBrand().contains(searchString)){
 			results.add(cur.getCompany() + " " + cur.getBrand());
 		}
+	}
 	req.setAttribute("result", results);		
         RequestDispatcher view = req.getRequestDispatcher("searchResult.jsp");
         view.forward(req, resp); 
     	}
-    }	
+	
 }
