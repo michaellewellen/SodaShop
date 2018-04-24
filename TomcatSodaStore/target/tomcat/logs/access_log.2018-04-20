@@ -1,0 +1,9 @@
+144.17.169.14 - - [20/Apr/2018:21:32:40 +0000] "GET /TomcatSodaStore HTTP/1.1" 500 2873 http-bio-8080-exec-1 1054
+144.17.169.14 - - [20/Apr/2018:21:39:35 +0000] "GET /TomcatSodaStore HTTP/1.1" 200 420 http-bio-8080-exec-1 1002
+144.17.169.14 - - [20/Apr/2018:21:39:55 +0000] "POST /TomcatSodaStore/SelectSoda HTTP/1.1" 200 148 http-bio-8080-exec-3 10
+144.17.169.14 - - [20/Apr/2018:21:40:06 +0000] "POST /TomcatSodaStore/SelectSoda HTTP/1.1" 200 149 http-bio-8080-exec-4 2
+144.17.169.14 - - [20/Apr/2018:21:40:11 +0000] "POST /TomcatSodaStore/SelectSoda HTTP/1.1" 200 154 http-bio-8080-exec-6 2
+144.17.121.230 - - [20/Apr/2018:21:41:02 +0000] "GET /TomcatSodaStore HTTP/1.1" 200 420 http-bio-8080-exec-9 2
+144.17.121.230 - - [20/Apr/2018:21:41:02 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-10 0
+144.17.169.14 - - [20/Apr/2018:21:41:27 +0000] "POST /TomcatSodaStore/SelectSoda HTTP/1.1" 200 149 http-bio-8080-exec-2 2
+144.17.169.14 - - [20/Apr/2018:22:05:11 +0000] "GET /TomcatSodaStore HTTP/1.1" 200 594 http-bio-8080-exec-1 902
