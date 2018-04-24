@@ -24,7 +24,7 @@ th, td{
 	</form>
 
 	<h2>or Select a Soda Company</h2>
-	<form method="post" action="TomcatSodaStore/SelectSoda">
+	<form method="post" action="SelectSoda">
 		<br>
 		
 		<select name="Type" size="1">
