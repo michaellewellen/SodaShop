@@ -19,7 +19,7 @@ th, td{
 
 	<form method="post" action="TomcatSodaStore/SearchResult">
 		<br>
-		<input type="search" name="sodaSearch">
+		<input type="search" name="search">
 
 	</form>
 
